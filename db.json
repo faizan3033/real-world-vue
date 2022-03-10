@@ -1,5 +1,5 @@
 {
-events: [
+"events:" [
         {
           id: 5928101,
           category: 'animal welfare',
@@ -8,7 +8,6 @@ events: [
           location: 'Meow Town',
           date: 'January 28, 2022',
           time: '12:00',
-          petsAllowed: true,
           organizer: 'Kat Laydee'
         },
         {
@@ -19,7 +18,6 @@ events: [
           location: 'Flora City',
           date: 'March 14, 2022',
           time: '10:00',
-          petsAllowed: true,
           organizer: 'Fern Pollin'
         },
         {
@@ -30,7 +28,6 @@ events: [
           location: 'Playa Del Carmen',
           date: 'July 22, 2022',
           time: '11:00',
-          petsAllowed: false,
           organizer: 'Carey Wales'
         }
       ]
